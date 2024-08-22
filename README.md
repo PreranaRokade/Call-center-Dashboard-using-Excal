@@ -35,5 +35,5 @@ Efficiency Analysis: Another gauge showing the efficiency of cases resolved (40%
 Weekly Analysis Graph: This line graph displays the number of calls, cases resolved, and operators per week across different months, with data points indicating specific values like 445 calls in a week (312 outbound, 406 inbound, and 26 unsuccessful), with 29 operators and 465 cases resolved.
 This dashboard provides a comprehensive overview of call center operations, visualizing key performance indicators and engagement metrics, and helps in identifying trends, operator performance, and efficiency in case resolutions.
 
-Dashboad:
+Dashboard:
 ![call center dashboard](https://github.com/user-attachments/assets/da85dc58-bc40-474d-aeed-bd28107891af)
